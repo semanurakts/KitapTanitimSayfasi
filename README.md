@@ -17,4 +17,4 @@ Bu proje, sadece HTML kullanılarak hazırlanmış bir **kitap tanıtım sayfas�
 
 Projeyi kendi bilgisayarında görüntülemek için HTML dosyasını tarayıcında açman yeterlidir:
 
-[Buraya tıklayarak önizleyebilirsin](https://semanurakts.github.io/KitapTanitimSayfasi/KitapTanitimSayfasi.html)
+[Kitap Tanıtım Sayfası](https://semanurakts.github.io/KitapTanitimSayfasi/)
